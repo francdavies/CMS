@@ -7,6 +7,6 @@
     $_SESSION['lastname'] = null;
     $_SESSION['user_role'] = null;
 
-    header("Location: ./includes/index.php");
+    header("Location: index.php");
 
 ?>
