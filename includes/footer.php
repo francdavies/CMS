@@ -16,7 +16,11 @@
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+     <!--Use Locally-->
+    <!--<script src="js/bootstrap.min.js"></script>-->
+
+    <!--Use Live on Web-->
+    <script src="/js/bootstrap.min.js"></script>
 
 </body>
 
