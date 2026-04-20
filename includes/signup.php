@@ -128,6 +128,10 @@ if(isset($_POST['signup'])) {
         <p class="mt-3 text-center">
           Already have an account? <a href="login-page.php">Login</a>
         </p>
+
+        <p class="mt-3 text-center">
+          Back to <a href="../index.php">Home Page</a>
+        </p>
         
         <p class="mt-5 mb-3 text-muted text-center"><?php include "footer.php";?></p>
       </form>
