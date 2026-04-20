@@ -40,6 +40,10 @@
           Don't have an account? <a href="signup.php">Sign up</a>
         </p>
 
+        <p class="mt-3 text-center">
+          View site <a href="../index.php">Home Page</a>
+        </p>
+
         <?php include "footer.php";?>
       </form>
       
