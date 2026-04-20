@@ -41,7 +41,7 @@
         </p>
 
         <p class="mt-3 text-center">
-          View site <a href="../index.php">Home Page</a>
+          Back to <a href="../index.php">Home Page</a>
         </p>
 
         <?php include "footer.php";?>
