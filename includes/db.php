@@ -16,7 +16,6 @@ mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);*/
 
 # For Local and Live web Database
 
-<?php
 
 $db['db_host'] = getenv("DB_HOST") ?: "localhost";
 $db['db_user'] = getenv("DB_USER") ?: "root";
@@ -39,7 +38,6 @@ $connection = mysqli_connect(
 if (!$connection) {
     die("Database connection failed: " . mysqli_connect_error());
 }
-?>
 
 
 ?>
